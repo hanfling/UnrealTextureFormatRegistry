@@ -1,5 +1,5 @@
 # UnrealTextureFormatRegistry
-Standardized List of TextureFormat IDs for Unreal Engine 1
+Standardized List of extended TextureFormat IDs for Unreal Engine 1.
 
 	enum ETextureFormat
 	{
